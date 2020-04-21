@@ -1,4 +1,16 @@
-# hello-world
-my first repository
+#heading
+|tabble|goes|
+|---|---|
+|one|two|
 
-heyy its Rushil here.
+1.one
+2.tqo
+   1.hey
+   
+---
+'''python
+
+print('hey')
+
+'''
+   
